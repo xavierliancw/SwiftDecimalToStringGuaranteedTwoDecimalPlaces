@@ -51,10 +51,6 @@ class DecimalToStringGuaranteedTwoDecimalPlacesTests: XCTestCase
                         "-9.00", "-10.00"]
         //... heck
         
-//        for x in 0 ..< testData.count
-//        {
-//            print(testData[x], "vs", expected[x])
-//        }
         guard testData.count == expected.count else {
             return XCTFail("You're an idiot, your test data is whack")
         }
