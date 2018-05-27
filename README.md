@@ -1,4 +1,4 @@
-# When Do I Want To Convert a Decimal to a String With Guaranteed Two Decimal Places and Accurate Rounding?<br>I Want To Convert a Decimal to a String With Guaranteed Two Decimal Places and Accurate Rounding Now!
+# When Do I Want To Convert a Decimal to a String With Guaranteed Two Decimal Places and Accurate Rounding?<br>I Want To Convert a Decimal to a String With Guaranteed Two Decimal Places and Accurate Rounding _*Now*_!
 
 I was struggling with keeping all the possible cases in mind when making the function (e.g. when to pad a zero at the end, pad a zero in the tenths place, etc.)
 So I decided to go test-driven on this function.
